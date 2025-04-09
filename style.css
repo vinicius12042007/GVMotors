@@ -8,7 +8,7 @@
 
 /* Estilos gerais */
 body {
-    background-color: #f1f8f5;
+    background-color: #69fdbd;
 }
 
 .container {
@@ -19,7 +19,7 @@ body {
 
 /* Cabeçalho */
 .header {
-    background-color: #00000000;
+    background-color: #ff000000;
     color: white;
     text-align: center;
     padding: 30px;
