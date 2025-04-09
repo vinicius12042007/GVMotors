@@ -19,8 +19,8 @@ body {
 
 /* Cabeçalho */
 .header {
-    background-color: #00704A;
-    color: white;
+    background-color: #000000;
+    color: rgb(255, 0, 0);
     text-align: center;
     padding: 30px;
     margin-bottom: 40px;
@@ -66,10 +66,14 @@ body {
 }
 
 .item-price {
-    color: #00704A;
+    color: #a51616;
     font-weight: bold;
     font-size: 1.1em;
 }
+
+
+
+
 
 /* Tamanhos */
 .item-sizes {
